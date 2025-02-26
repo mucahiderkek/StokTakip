@@ -48,9 +48,3 @@ Proje SQLite kullanmaktadır. **Veritabanı dosyası (`stoktakip.db`) proje dizi
 1️⃣ **Projeyi GitHub’dan klonla**  
 ```bash
 git clone https://github.com/KullaniciAdi/StokTakipUygulamasi.git
-
-
-👤 [Mücahid Erkek]
-📧 Email: [mucahiderkek@gmail.com]
-🔗 GitHub: [github.com/mucahiderkek]
-🚀 LinkedIn: [linkedin.com/in/mücahid-talha-erkek]
